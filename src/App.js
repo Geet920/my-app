@@ -19,7 +19,7 @@ function App() {
         {/* <ClockWithEffect /> */}
         <Weather/>
         {/* <TemperatureInCelsius/> */}
-        <TempInCelsius/>
+        {/* <TempInCelsius/> */}
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         {/* <p>
           Hello This is <code>src/App.js</code> and save to reload.
